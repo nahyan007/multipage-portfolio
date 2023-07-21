@@ -162,50 +162,39 @@ export const skills = [
   {
     id: 1,
     title: "Html",
-    percentage: "25",
+    percentage: "90",
   },
 
   {
     id: 2,
-    title: "Javascript",
-    percentage: "89",
-  },
-
-  {
-    id: 3,
-    title: "Css",
+    title: "CSS",
     percentage: "70",
   },
 
   {
+    id: 3,
+    title: "Bootstrap",
+    percentage: "80",
+  },
+
+  {
     id: 4,
-    title: "Php",
-    percentage: "66",
+    title: "TailWindCss",
+    percentage: "80",
   },
 
   {
     id: 5,
-    title: "Wordpress",
-    percentage: "95",
-  },
-
-  {
-    id: 6,
-    title: "Jquery",
-    percentage: "50",
-  },
-
-  {
-    id: 7,
-    title: "Angular",
+    title: "JavaScript",
     percentage: "65",
   },
 
   {
-    id: 8,
+    id: 6,
     title: "React",
-    percentage: "45",
+    percentage: "65",
   },
+  
 ];
 
 export const portfolio = [
