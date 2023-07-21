@@ -60,90 +60,47 @@ export const links = [
 export const personalInfo = [
   {
     id: 1,
-    title: "First Name : ",
-    description: "Steve",
+    title: "Full Name : ",
+    description: "Al Ashraful Islam Shorif",
   },
 
   {
     id: 2,
-    title: "Last Name : ",
-    description: "Milner",
+    title: "Age : ",
+    description: "25 Years",
   },
 
   {
     id: 3,
-    title: "Age : ",
-    description: "27 Years",
+    title: "Nationality : ",
+    description: "Bangladeshi",
   },
 
   {
     id: 4,
-    title: "Nationality : ",
-    description: "Tunisian",
+    title: "Address : ",
+    description: "Tejkunipara,Tejgoan,Dhaka",
   },
 
   {
     id: 5,
-    title: "Freelance : ",
-    description: "Available",
+    title: "Phone : ",
+    description: "01814458638",
   },
 
   {
     id: 6,
-    title: "Address : ",
-    description: "Tunis",
+    title: "Email : ",
+    description: "alashrafulislamshorif@gmail.com",
   },
 
   {
     id: 7,
-    title: "Phone : ",
-    description: "+21621184010",
-  },
-
-  {
-    id: 8,
-    title: "Email : ",
-    description: "you@mail.com",
-  },
-
-  {
-    id: 9,
-    title: "Skype : ",
-    description: "steve.milner",
-  },
-
-  {
-    id: 10,
     title: "Langages : ",
-    description: "French, English",
+    description: "Bangla, English, Hindi",
   },
 ];
 
-export const stats = [
-  {
-    id: 1,
-    no: "12+",
-    title: "Years of <br /> Experience",
-  },
-
-  {
-    id: 2,
-    no: "97+",
-    title: "Completed <br /> Projects",
-  },
-
-  {
-    id: 3,
-    no: "81+",
-    title: "Happy <br /> Customers",
-  },
-
-  {
-    id: 4,
-    no: "53+",
-    title: " Awards <br /> Won",
-  },
-];
 
 export const resume = [
   {
