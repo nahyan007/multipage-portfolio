@@ -1,7 +1,7 @@
 import React from "react";
 import Info from "../../components/Info";
 import { FaDownload } from "react-icons/fa";
-import CV from "../../assets/steve-Cv.pdf";
+import CV from "../../assets/Al_Ashraful_Islam_Shorif's_Resume.pdf";
 import "./About.css";
 import Skills from "../../components/Skills";
 import { resume } from "../../data";
