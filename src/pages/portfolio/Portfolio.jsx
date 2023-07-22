@@ -1,7 +1,7 @@
 import React from 'react'
 import { portfolio } from '../../data'
 import PortfolioItem from '../../components/PortfolioItem';
-import './Portfolio.css'
+import '../portfolio/Portfolio.css'
 
 const Portfolio = () => {
   return (

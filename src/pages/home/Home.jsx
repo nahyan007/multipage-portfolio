@@ -12,7 +12,8 @@ const Home = () => {
       <div className="home__content">
         <div className="home__data">
           <h1 className="home__title">
-            <span>I'm Al Ashraful Islam Shorif.</span> React Web Developer
+          Assalamu Alaikum <br />
+            <span>I'm Al Ashraful Islam Shorif.</span> <br /> A React Web Developer
           </h1>
 
           <p className="home__description">

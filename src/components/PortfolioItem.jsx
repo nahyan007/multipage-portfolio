@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Close from "../assets/close.svg";
-import '../components/Portfolio.css';
+import '../pages/portfolio/Portfolio.css';
 
 const PortfolioItem = ({ img, title, details, id }) => {
   const [modal, setModal] = useState(false);
