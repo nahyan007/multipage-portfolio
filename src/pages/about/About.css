@@ -1,3 +1,4 @@
+.about__container,
 .info__list,
 .resume__container {
   grid-template-columns: repeat(2, 1fr);
@@ -107,13 +108,13 @@
   font-weight: var(--weight-600);
 }
 
-.resume__subtitle{
+.resume__subtitle {
   font-size: var(--large-font-size);
   font-weight: var(--weight-500);
   margin-block: 20px 10px;
 }
 
-.resume__subtitle span{
+.resume__subtitle span {
   color: var(--text-color);
   font-family: var(--body-font);
   font-size: var(--small-font-size);
@@ -122,8 +123,8 @@
   padding-left: 26px;
 }
 
-.resume__subtitle span::before{
-  content: '';
+.resume__subtitle span::before {
+  content: "";
   position: absolute;
   left: 7px;
   top: 9px;
@@ -132,8 +133,7 @@
   background-color: var(--text-color);
 }
 
-
-.resume__description{
+.resume__description {
   font-size: var(--small-font-size);
   line-height: 1.6;
 }

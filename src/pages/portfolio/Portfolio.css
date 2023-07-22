@@ -83,6 +83,7 @@
 
 .modal__list{
     margin-bottom: 24px;
+    row-gap: 10px !important;
 }
 
 .modal__item{

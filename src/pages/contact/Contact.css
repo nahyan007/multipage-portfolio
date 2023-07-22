@@ -59,7 +59,7 @@
     color: var(--text-white);
 }
 
-.from__input-group{
+.form__input-group{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     column-gap: 30px;

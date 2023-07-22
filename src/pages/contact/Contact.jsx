@@ -59,29 +59,31 @@ const Contact = () => {
           </div>
         </div>
 
-        <form className="contact__form">
-          <div className="form__input-div">
-            <input
-              type="text"
-              placeholder="Your Name"
-              className="form__control"
-            />
-          </div>
+        <form className="contact__form ">
+          <div className="form__input-group">
+            <div className="form__input-div">
+              <input
+                type="text"
+                placeholder="Your Name"
+                className="form__control"
+              />
+            </div>
 
-          <div className="form__input-div">
-            <input
-              type="email"
-              placeholder="Your Mail"
-              className="form__control"
-            />
-          </div>
+            <div className="form__input-div">
+              <input
+                type="email"
+                placeholder="Your Mail"
+                className="form__control"
+              />
+            </div>
 
-          <div className="form__input-div">
-            <input
-              type="subject"
-              placeholder="Your Subject"
-              className="form__control"
-            />
+            <div className="form__input-div">
+              <input
+                type="subject"
+                placeholder="Your Subject"
+                className="form__control"
+              />
+            </div>
           </div>
 
           <div className="form__input-div">
@@ -91,7 +93,7 @@ const Contact = () => {
             ></textarea>
           </div>
 
-          <button type="button" className="button">
+          <button className="button">
             Send Message
             <span className="button__icon contact__button-icon">
               <FiSend />

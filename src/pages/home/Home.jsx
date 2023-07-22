@@ -13,7 +13,7 @@ const Home = () => {
         <div className="home__data">
           <h1 className="home__title">
           Assalamu Alaikum <br />
-            <span>I'm Al Ashraful Islam Shorif.</span> <br /> A React Web Developer
+            <span>I'm Al Ashraful Islam Shorif.</span> <br className="br__display" /> A React Web Developer
           </h1>
 
           <p className="home__description">
@@ -33,7 +33,7 @@ const Home = () => {
         </div>
       </div>
 
-    <div className="color__block"></div>
+    <div className="color__block" />
 
     </section>
   );
