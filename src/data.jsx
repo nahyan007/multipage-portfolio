@@ -101,33 +101,33 @@ export const personalInfo = [
   },
 ];
 
-
 export const resume = [
   {
     id: 1,
     category: "experience",
     icon: <FaBriefcase />,
-    year: "2018 - PRESENT",
-    title: "Web Developer <span> Envato </span>",
-    desc: "Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore adipisicing elit,",
+    year: "09/2019 - 06/2021",
+    title: "Graphics Designer <span> Tech Square E-commerce shop </span>",
+    desc: "<ul><li>Planning upcoming design for upcoming event.</li><li>Supervise all content for website.</li><li>Distributing works to the team members.</li><li>Assuring all banner quality and design before uploading on website</li></ul>",
   },
 
   {
     id: 2,
-    category: "experience",
-    icon: <FaBriefcase />,
-    year: "2013 - 2018",
-    title: "UI/UX Designer <span> Themeforest </span>",
-    desc: "Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt",
+    category: "education",
+    icon: <FaGraduationCap />,
+    year: "2023",
+    title: "Computer Science & Engineering (CSE) <span> City University</span>",
+    desc: "Completed my  B.Sc. Engineering in CSE from City University, Dhaka, Bangladesh ",
   },
 
   {
     id: 3,
-    category: "experience",
-    icon: <FaBriefcase />,
-    year: "2005 - 2013",
-    title: "Consultant <span> Videohive </span>",
-    desc: "Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur elit, sed do eiusmod tempor duntt",
+    category: "education",
+    icon: <FaGraduationCap />,
+    year: "2017",
+    title:
+      "Higher Secondary Certificate <span> Major General Mahmudul Hasan Adarsha College </span>",
+    desc: "Completed my  Higher Secondary Certificate from Major General Mahmudul Hasan Adarsha College, Tangail, Bangladesh",
   },
 
   {
@@ -135,26 +135,9 @@ export const resume = [
     category: "education",
     icon: <FaGraduationCap />,
     year: "2015",
-    title: "Engineering Degree <span> Oxford University </span>",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor incididunt ut labore",
-  },
-
-  {
-    id: 5,
-    category: "education",
-    icon: <FaGraduationCap />,
-    year: "2012",
-    title: "Master Degree <span> KIEV University </span>",
-    desc: "Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt",
-  },
-
-  {
-    id: 6,
-    category: "education",
-    icon: <FaGraduationCap />,
-    year: "2009",
-    title: "Bachelor Degree <span> Tunis High School </span>",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut labore",
+    title:
+      " Secondary School Certificate <span> Police Lines Adarsha High School </span>",
+    desc: "Completed my Secondary School Certificate from Police Lines Adarsha High School, Tangail, Bangladesh",
   },
 ];
 
@@ -194,7 +177,6 @@ export const skills = [
     title: "React",
     percentage: "65",
   },
-  
 ];
 
 export const portfolio = [
